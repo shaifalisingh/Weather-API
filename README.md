@@ -5,10 +5,10 @@ Weather Py Solution
 Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.
 
 Built a series of scatter plots to showcase the following relationships:
-•	Temperature (F) vs. Latitude
-•	Humidity (%) vs. Latitude
-•	Cloudiness (%) vs. Latitude
-•	Wind Speed (mph) vs. Latitude
+      Temperature (F) vs. Latitude
+      Humidity (%) vs. Latitude
+      Cloudiness (%) vs. Latitude
+      Wind Speed (mph) vs. Latitude
 
 The notebook has:
 •	Randomly selected at 500 unique (non-repeat) cities based on latitude and longitude.
